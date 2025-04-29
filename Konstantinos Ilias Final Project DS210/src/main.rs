@@ -107,3 +107,4 @@ fn main() {
     plot_betweenness_histogram(&betweenness).unwrap();
     plot_clusters(&features, &assignments).unwrap();
 }
+// Intermediate commit: updated main.rs
