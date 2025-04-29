@@ -1,5 +1,5 @@
-// Main program to compute centrality measures on the Enron email network dataset and conduct clustering.
-// It Loads the dataset, calculates degree, closeness, and betweenness centralities,
+// This is the main program to compute centrality measures on the Enron email network dataset and conduct clustering.
+// It loads the dataset, calculates degree, closeness, and betweenness centralities,
 // It also performs clustering (connected components + k-means), and generates plots.
 
 mod graph;
