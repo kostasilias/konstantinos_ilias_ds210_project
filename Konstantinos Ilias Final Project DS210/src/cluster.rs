@@ -1,5 +1,5 @@
 // Includes functions to find connected components (clusters),
-// normalize features for machine learning, and apply k-means clustering.
+// normalize features for machine learning, and finally apply k-means clustering.
 
 use std::collections::{HashMap, HashSet, VecDeque};
 
