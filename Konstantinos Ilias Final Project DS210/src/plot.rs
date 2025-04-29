@@ -157,4 +157,4 @@ pub fn plot_clusters(
     }
 
     Ok(())
-}
+}// Final commit: updated plot.rs

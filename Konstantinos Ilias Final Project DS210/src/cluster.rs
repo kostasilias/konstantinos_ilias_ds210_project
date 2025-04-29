@@ -202,4 +202,4 @@ mod tests {
         // Different clusters between groups
         assert_ne!(cluster_of_node1, cluster_of_node3);
     }
-}
+}// Final commit: updated cluster.rs
