@@ -1,4 +1,4 @@
-// Graph has function that are used for loading the Enron dataset and computing centrality measures.
+// Graph has functions that are used for loading the Enron dataset and computing centrality measures.
 // Specifically it provides functions that read graph data, map emails to nodes, and compute degree, closeness, and betweenness.
 
 
